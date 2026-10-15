@@ -2,8 +2,9 @@
 
 **An end-to-end machine learning system that decides: is this email / message _SPAM_ or _NOT SPAM (HAM)_?**
 
-<img src="assets/pipeline.svg" alt="Animated spam detection pipeline" width="100%"/>
-
+![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-NLP-blueviolet)
+![Status](https://img.shields.io/badge/status-active-success)
 
 </div>
 
