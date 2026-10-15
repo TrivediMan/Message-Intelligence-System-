@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/status-active-success)
 
 
-🔗 **Live App:** [https://robust-5fd7qcgpjn6hxvnha76eg4.streamlit.app/](https://message-intelligence-system-4519.streamlit.app/)
+🔗 **Live App:** [https://message-intelligence-system-4519.streamlit.app/](https://message-intelligence-system-4519.streamlit.app/)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://message-intelligence-system-4519.streamlit.app/)
 
